@@ -1,2 +1,5 @@
-# macro-indicator-visual-helper
-Macroeconomic Indicator Query &amp; Analysis Skill，宏观经济指标查询分析助手，用于解读CPI、M2、PMI等宏观指标，结合货币银行学分析货币政策
+# macro-indicator-visual-helper Macroeconomic Indicator Query & Analysis Skill 宏观经济指标查询分析助手 
+ ## 项目介绍 本Skill面向货币银行学课程学习，快速解读各类宏观经济指标：CPI、PPI、M2、PMI、存款准备金率等。 输入指标数值，自动解释指标含义、变化背后的经济逻辑，判断央行货币政策的宽松/收紧倾向，生成复习笔记，辅助课程作业与期末复习。 
+ ## 功能清单 1. 指标查询：快速查看CPI、M2、PMI、PPI、GDP、失业率定义 2. 数据解读：输入指标最新数值，分析经济冷热 3. 货币政策推导：根据指标变化，判断货币政策方向 4. 考点总结：输出货币银行学相关知识点与背诵要点 
+ ## 使用示例 > 用户输入：CPI同比上涨2.8%，M2增速11.2% > Skill输出： CPI小幅上行，存在温和通胀压力；M2增速较高代表市场货币供给充裕。综合来看，货币政策大概率维持稳健偏宽松，需要关注后续物价持续上涨风险。 
+ ## 适用课程 货币银行学、宏观经济学
